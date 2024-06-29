@@ -1,5 +1,6 @@
 # tik
 TikTok
+• https://skyd.pp.ua/yt
 
 # 301 redirect 
-• https://www.tiktok.com/@anmenigyt
+• https://www.youtube.com/@skyd_pp_ua
